@@ -1,0 +1,9 @@
+#include <iostream>
+use namesopace std;
+
+int main() {
+
+count <<"Hello world \n";
+return 0;
+
+}
